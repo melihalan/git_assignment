@@ -16,3 +16,12 @@ When you're finished doing all the changes you made push them to remote, you go 
 > d. Give me a step by step guide on how to add someone to your repository.
 
 In your repo, click settings, click collaborators on the left, click add people and send them an invite.
+
+> e. What is the difference between `git` and `GitHub`?
+
+git is a version control system, GitHub is a service provider to run git related tasks in the cloud and make collaboration easier with extra features.
+
+> f. What does `git diff` do?
+
+Show changes between different branches.
+
