@@ -25,3 +25,10 @@ git is a version control system, GitHub is a service provider to run git related
 
 Show changes between different branches.
 
+> g. What is the `main` branch?
+
+"main" or "master" branch is the main branch where all of the production code is hosted, we should branch off of the main branch and merge back into it once development completes. 
+
+> h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the `main` branch?
+
+No, we should create a new branch called development etc. and use that until we are sure that our code is working and depending on the scheduling of features or tasks every time we finish off something new we should create and merge pull requests after review.
